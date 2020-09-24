@@ -1,2 +1,1 @@
-# manoharyeluri.github.io
-My GitHub User Site
+https://manoharyeluri.github.io/
